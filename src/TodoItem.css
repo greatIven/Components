@@ -1,0 +1,26 @@
+/* .btnDel {
+  margin-left: 1000px;
+} */
+.todo-item-completed {
+  text-decoration: line-through;
+  display: inline-block;
+}
+.item {
+  display: inline-block;
+}
+
+.chk {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.btndel {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.field {
+  width: 30%;
+  display: flex;
+  justify-content: space-between;
+}

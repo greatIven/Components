@@ -1,0 +1,7 @@
+.searchBartext {
+  float: right;
+  flex-grow: 2;
+  width: 200px;
+  height: 30px;
+  padding-right: 50px;
+}
